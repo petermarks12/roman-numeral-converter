@@ -1,5 +1,5 @@
 # roman-numeral-converter
-This is one of my ongoing project about Roman Numeral Converter
+This is one of my ongoing project about Roman Numeral Converter. I am planning to create this converter in HTML, CSS, and Javascript.
 
 ### Useful Resources
 
